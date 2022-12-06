@@ -1,0 +1,38 @@
+.container {
+
+    margin-top: 2rem;
+    width: 100%;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    width: 50%;
+    height: 500px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+button {
+
+    width: 150px;
+    height: 50px;
+    background-color: rgb(207, 96, 115);
+    margin-top: 1rem;
+    margin-right: 1rem;
+    border-radius: 1rem;
+    border: none;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+    font-size: 40px;
+    transition: all 0.3s;
+    
+}
+
+button:hover {
+        background-color: rgb(137, 49, 151);
+}
+
