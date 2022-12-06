@@ -8,7 +8,8 @@ import { DogComponent } from './components/dog/dog.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    DogComponent
   ],
   imports: [
     BrowserModule,
